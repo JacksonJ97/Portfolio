@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.aa6f18a6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.aa6f18a6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
+    "static/js/2.652acf3a.chunk.js": "/portfolio/static/js/2.652acf3a.chunk.js",
+    "static/js/2.652acf3a.chunk.js.map": "/portfolio/static/js/2.652acf3a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/js/2.652acf3a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.652acf3a.chunk.js.LICENSE.txt",
+    "static/media/books-icon.f7055030.svg": "/portfolio/static/media/books-icon.f7055030.svg",
+    "static/media/cv-app-icon.26c0cddf.svg": "/portfolio/static/media/cv-app-icon.26c0cddf.svg",
+    "static/media/logo.a114e2bb.svg": "/portfolio/static/media/logo.a114e2bb.svg",
+    "static/media/pokemon-icon.997fb0c0.svg": "/portfolio/static/media/pokemon-icon.997fb0c0.svg",
+    "static/media/portfolio-icon.8c047f50.svg": "/portfolio/static/media/portfolio-icon.8c047f50.svg",
+    "static/media/resume.e0b859b7.pdf": "/portfolio/static/media/resume.e0b859b7.pdf",
+    "static/media/tea-icon.b76262d4.svg": "/portfolio/static/media/tea-icon.b76262d4.svg",
+    "static/media/weather-icon.932758eb.svg": "/portfolio/static/media/weather-icon.932758eb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf68c44.js",
+    "static/js/2.652acf3a.chunk.js",
+    "static/js/main.aa6f18a6.chunk.js"
+  ]
+}
